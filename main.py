@@ -7,4 +7,4 @@ def add(a:int, b: int):
     logging.info(a)
     logging.info(b)
 
-    return a - b
+    return a + b
